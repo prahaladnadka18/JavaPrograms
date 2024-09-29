@@ -19,3 +19,14 @@ public class BoxChar {
 
 }
 
+/* OUTPUT:
+
+A A A A A 
+A A A A A 
+A A A A A 
+A A A A A 
+A A A A A    
+  
+
+ */
+

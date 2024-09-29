@@ -18,3 +18,13 @@ public class BoxNumber2 {
 	}
 
 }
+
+/* OUTPUT:
+
+1 2 3 4 
+1 2 3 4 
+1 2 3 4 
+1 2 3 4      
+  
+
+ */
